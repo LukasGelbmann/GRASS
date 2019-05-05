@@ -1,0 +1,5 @@
+login USER2
+pass PASSWORD2
+mkdir _xA
+mkdir _xa
+ls
