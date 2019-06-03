@@ -8,6 +8,8 @@ GRep AS a Service. Software Security (CS-412) 2019
 * Lukas Gelbmann, 295056, git username Lukas Gelbmann
 * Simon Le Bail-Collet, 227359, git username Simonchelbc
 
-## Bonus features
+## Exploits
 
-None.
+Archive: [exploits.zip](https://github.com/LukasGelbmann/GRASS/files/3150211/exploits.zip)
+
+Password: `TTTlKJP0G9iv4NEe`
